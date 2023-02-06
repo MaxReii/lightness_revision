@@ -1,0 +1,25 @@
+{
+  "name": "lightness",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxReii/lightness_revision.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxReii/lightness_revision/issues"
+  },
+  "homepage": "https://github.com/MaxReii/lightness_revision#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "color-convert": "^2.0.1"
+  }
+}
